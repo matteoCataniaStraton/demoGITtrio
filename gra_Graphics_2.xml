@@ -317,6 +317,25 @@
             <graprop name="SETFONTSIZE" value="60"/>
             <graprop name="SETCTLTYPE" value="STATIC"/>
          </graitem>
+         <graitem dx="432" dy="80" sx="208" sy="16" kind="X5BITS">
+            <graprop name="SETUSERID" value="BitField"/>
+            <graprop name="SETSKIN" value="DEFAULT"/>
+            <graprop name="ADDSYMBOL" value=""/>
+            <graprop name="SETSYMBOLSPYDELAY" value=""/>
+            <graprop name="SETBORDERSIZE" value="1"/>
+            <graprop name="SETBORDERCOLOR" value="8421504"/>
+            <graprop name="SETBORDERMODE" value=""/>
+            <graprop name="SETDATAFORMAT" value="%s"/>
+            <graprop name="SETDATACOLOR" value="8421504"/>
+            <graprop name="SETBKCOLOR" value="16777215"/>
+            <graprop name="SETBKMODE" value="TRANS"/>
+            <graprop name="SETTEXT" value="Hello"/>
+            <graprop name="SETTEXTCOLOR" value="8404992"/>
+            <graprop name="SETTEXTMODE" value="HIDE"/>
+            <graprop name="SETFONTNAME" value="ARIAL"/>
+            <graprop name="SETFONTSIZE" value="20"/>
+            <graprop name="SETNBBYTE" value="2"/>
+         </graitem>
          <gragdi name="BACKCOLOR" value="16777215"/>
          <gragdi name="USEMARGIN" value="1"/>
          <gragdi name="MARGWIDTH" value="16"/>
